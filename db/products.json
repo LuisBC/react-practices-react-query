@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "adios",
+      "description": "hola",
+      "price": 4,
+      "inStock": false
+    }
+  ]
+}
